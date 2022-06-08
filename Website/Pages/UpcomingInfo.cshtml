@@ -1,0 +1,55 @@
+﻿@page
+@using Microsoft.AspNetCore.Http
+@using Synthesis_assignment.Base_classes
+@using Synthesis_assignment.Manager_classes
+@using Synthesis_assignment.Upload_classes
+@model Website.Pages.UpcomingInfoModel
+@{
+    Model.Id = HttpContext.Session.GetInt32("id");
+    TournamentManager manager = new TournamentManager(new UploadTournament());
+    Model.Tournament = (Upcoming_tournament)manager.GetTournament(Model.Id);
+}
+<link rel="stylesheet" href="~/css/UpcomingInfo.css" />
+<body>
+    <section class="flex-item">
+    <h2>ID: @Model.Tournament.Id</h2>
+    <h2>Sport: @Model.Tournament.SportType</h2>
+    <h2>Description: @Model.Tournament.Description</h2>
+    <h2 id="startDate">Start date: @Model.Tournament.StartDate.ToString("dd/MM/yyyy")</h2>
+    <h2 id="endDate">End date: @Model.Tournament.EndDate.ToString("dd/MM/yyyy")</h2>
+    <h2 id="minPlayers">Minimum players: @Model.Tournament.MinPlayers</h2>
+    <h2 id="maxPlayers">Maximum players: @Model.Tournament.MaxPlayers</h2>
+    <h2>Address: @Model.Tournament.Location</h2>
+    <h2>Tournament system: @Model.Tournament.System</h2>
+    <h2>Number of games: @Model.Tournament.NumGames</h2>
+    <h2>Current participants: @Model.Tournament.Participants.Length</h2>
+</section>
+@if(HttpContext.Session.GetString("email") == null)
+{
+    <a id="LogInLink" asp-page="Login">You need to log in first.</a>
+}else{
+    int ex = 0;
+    @foreach(People p in @Model.Tournament.Participants)
+    {
+        if(p.Email == HttpContext.Session.GetString("email"))
+        {
+            ex = 1;
+        }
+    }
+    @if(ex == 1)
+    {
+        <h3 style="text-align: center;">You are already registered for this tournament.</h3>
+    }
+    else
+    {
+        @if(@Model.Tournament.StartDate >= DateTime.Today.AddDays(-7)){
+            <form method="post" asp-page-handler="Register" asp-route-id="@Model.Tournament.Id">
+            <button type="submit" id="register">Register</button>
+            </form>
+        }else{
+            <h2 style="text-align: center;">You can no longer register.</h2>
+        }
+    }
+}
+
+</body>

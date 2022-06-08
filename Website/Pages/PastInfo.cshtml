@@ -1,0 +1,37 @@
+﻿@page
+@using Microsoft.AspNetCore.Http
+@using Synthesis_assignment.Base_classes
+@using Synthesis_assignment.Manager_classes
+@using Synthesis_assignment.Upload_classes
+@model Website.Pages.PastInfoModel
+@{
+    Model.Id = HttpContext.Session.GetInt32("id");
+    TournamentManager manager = new TournamentManager(new UploadTournament());
+    Model.Tournament = (Past_tournament)manager.GetTournament(Model.Id);
+}
+<link rel="stylesheet" href="~/css/OngoingPastInfo.css" />
+<body>
+    <div id="sections">
+    <section class="flex-item">
+    <h2>ID: @Model.Tournament.Id</h2>
+    <h2>Sport: @Model.Tournament.SportType</h2>
+    <h2>Description: @Model.Tournament.Description</h2>
+    <h2 id="startDate">Start date: @Model.Tournament.StartDate.ToString("dd/MM/yyyy")</h2>
+    <h2 id="endDate">End date: @Model.Tournament.EndDate.ToString("dd/MM/yyyy")</h2>
+    <h2 id="minPlayers">Minimum players: @Model.Tournament.MinPlayers</h2>
+    <h2 id="maxPlayers">Maximum players: @Model.Tournament.MaxPlayers</h2>
+    <h2>Address: @Model.Tournament.Location</h2>
+    <h2>Tournament system: @Model.Tournament.System</h2>
+    <h2>Number of games: @Model.Tournament.NumGames</h2>
+    </section>
+    <section id="leaderboard">
+        <h3 style="background-color: darkslategray">Name</h3>
+        <h3 style="background-color: darkslategray">Wins</h3>
+        @for(int i = 0; i < Model.Tournament.GetLeaderboard().Item1.Count; i++)
+        {
+            <h3>@Model.Tournament.GetLeaderboard().Item1[i]</h3>
+            <h3>@Model.Tournament.GetLeaderboard().Item2[i]</h3>
+        }
+    </section>
+    </div>
+</body>
