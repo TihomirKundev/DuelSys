@@ -1,0 +1,12 @@
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\bin\Debug\net5.0\SynthesisAssignment.deps.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\bin\Debug\net5.0\SynthesisAssignment.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\bin\Debug\net5.0\SynthesisAssignment.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\obj\Debug\net5.0\SynthesisAssignment.csproj.AssemblyReference.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\obj\Debug\net5.0\SynthesisAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\obj\Debug\net5.0\SynthesisAssignment.AssemblyInfoInputs.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\obj\Debug\net5.0\SynthesisAssignment.AssemblyInfo.cs
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\obj\Debug\net5.0\SynthesisAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\obj\Debug\net5.0\SynthesisAssignment.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\obj\Debug\net5.0\refint\SynthesisAssignment.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\obj\Debug\net5.0\SynthesisAssignment.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Synthesis assignment\obj\Debug\net5.0\ref\SynthesisAssignment.dll

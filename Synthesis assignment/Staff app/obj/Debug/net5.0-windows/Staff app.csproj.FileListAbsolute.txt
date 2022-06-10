@@ -1,0 +1,109 @@
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.exe
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.deps.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.runtimeconfig.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.runtimeconfig.dev.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.AssemblyReference.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.Form1.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.GenerateResource.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.AssemblyInfoInputs.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.AssemblyInfo.cs
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.CoreCompileInputs.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\refint\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.genruntimeconfig.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\ref\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Synthesis assignment.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Synthesis assignment.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.MainForm.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.CopyComplete
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.CRUDTournament.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.TournamentGames.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.GameResult.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Staff app.exe
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Staff app.deps.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Staff app.runtimeconfig.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Staff app.runtimeconfig.dev.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Staff app.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Synthesis assignment.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\bin\Debug\net5.0-windows\Synthesis assignment.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.AssemblyReference.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff_app.CRUDTournament.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff_app.Form1.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff_app.GameResult.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff_app.MainForm.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff_app.TournamentGames.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.GenerateResource.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.AssemblyInfoInputs.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.AssemblyInfo.cs
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.CoreCompileInputs.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.CopyComplete
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\refint\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\Staff app.genruntimeconfig.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment – Копие (2)\Staff app\obj\Debug\net5.0-windows\ref\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.exe
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.deps.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.runtimeconfig.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.runtimeconfig.dev.json
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Staff app.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.AssemblyReference.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.CRUDTournament.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.Form1.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.GameResult.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.MainForm.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff_app.TournamentGames.resources
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.GenerateResource.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.AssemblyInfoInputs.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.AssemblyInfo.cs
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.CoreCompileInputs.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.csproj.CopyComplete
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\refint\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.pdb
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\Staff app.genruntimeconfig.cache
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\obj\Debug\net5.0-windows\ref\Staff app.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\SynthesisAssignment.dll
+C:\Users\tihom\OneDrive - FHICT\Desktop\S2\Synthesis assignment\Staff app\bin\Debug\net5.0-windows\SynthesisAssignment.pdb

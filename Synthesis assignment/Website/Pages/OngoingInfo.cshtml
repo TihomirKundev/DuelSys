@@ -1,0 +1,67 @@
+﻿@page
+@using Microsoft.AspNetCore.Http
+@using SynthesisAssignment.Base_classes
+@using SynthesisAssignment.Manager_classes
+@using SynthesisAssignment.Upload_classes
+@using System.Text
+@model Website.Pages.OngoingInfoModel
+@{
+    Model.Id = HttpContext.Session.GetInt32("id");
+    TournamentManager manager = new TournamentManager(new UploadTournament());
+    Model.Tournament = (Ongoing_tournament)manager.GetTournament(Model.Id);
+}
+<link rel="stylesheet" href="~/css/OngoingPastInfo.css" />
+
+<body>
+    <div id="sections">
+    <section class="flex-item">
+    <h2>ID: @Model.Tournament.Id</h2>
+    <h2>Sport: @Model.Tournament.SportType</h2>
+    <h2>Description: @Model.Tournament.Description</h2>
+    <h2 id="startDate">Start date: @Model.Tournament.StartDate.ToString("dd/MM/yyyy")</h2>
+    <h2 id="endDate">End date: @Model.Tournament.EndDate.ToString("dd/MM/yyyy")</h2>
+    <h2 id="minPlayers">Minimum players: @Model.Tournament.MinPlayers</h2>
+    <h2 id="maxPlayers">Maximum players: @Model.Tournament.MaxPlayers</h2>
+    <h2>Address: @Model.Tournament.Location</h2>
+    <h2>Tournament system: @Model.Tournament.System</h2>
+    <h2>Number of games: @Model.Tournament.NumGames</h2>
+    </section>
+    <section id="leaderboard">
+        <h3 style="background-color: darkslategray">Name</h3>
+        <h3 style="background-color: darkslategray">Wins</h3>
+        @for(int i = 0; i < Model.Tournament.GetLeaderboard().Item1.Count; i++)
+        {
+            <h3>@Model.Tournament.GetLeaderboard().Item1[i]</h3>
+            <h3>@Model.Tournament.GetLeaderboard().Item2[i]</h3>
+        }
+    </section>
+    <section id="rightPart">
+        <h3 style="background-color: darkslategray">Names</h3>
+        <h3 style="background-color: darkslategray">Results</h3>
+        @foreach(Game game in Model.Tournament.Games)
+        {
+            string player1Name = "";
+            string player2Name = "";
+            @foreach(People people in Model.Tournament.Players)
+            {
+                if(people.Email == game.player1Email)
+                {
+                    player1Name = people.Fname + " " + people.Lname;
+                }
+                if(people.Email == game.player2Email)
+                {
+                    player2Name = people.Fname + " " + people.Lname;
+                }
+            }
+            <h3 id="matches">@player1Name - @player2Name</h3>
+            StringBuilder res = new StringBuilder();
+            for(int i = 0; i < game.Result().Item1.Length; i++)
+            {
+                res.Append(game.Result().Item1[i] + "-" + game.Result().Item2[i] + " ");
+                
+            }
+            <h3 id="results">@res</h3>
+        }
+    </section>
+    </div>
+</body>

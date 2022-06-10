@@ -1,0 +1,29 @@
+﻿@page
+@using Microsoft.AspNetCore.Http
+@using SynthesisAssignment.Base_classes
+@using SynthesisAssignment.Manager_classes
+@using SynthesisAssignment.Upload_classes
+@model Website.Pages.CancelInfoModel
+@{
+    Model.Id = HttpContext.Session.GetInt32("id");
+    TournamentManager manager = new TournamentManager(new UploadTournament());
+    Model.Tournament = (Canceled_tournament)manager.GetTournament(Model.Id);
+}
+<link rel="stylesheet" href="~/css/UpcomingInfo.css" />
+
+<body>
+    <section class="flex-item">
+    <h2>ID: @Model.Tournament.Id</h2>
+    <h2>Sport: @Model.Tournament.SportType</h2>
+    <h2>Description: @Model.Tournament.Description</h2>
+    <h2 id="startDate">Start date: @Model.Tournament.StartDate.ToString("dd/MM/yyyy")</h2>
+    <h2 id="endDate">End date: @Model.Tournament.EndDate.ToString("dd/MM/yyyy")</h2>
+    <h2 id="minPlayers">Minimum players: @Model.Tournament.MinPlayers</h2>
+    <h2 id="maxPlayers">Maximum players: @Model.Tournament.MaxPlayers</h2>
+    <h2>Address: @Model.Tournament.Location</h2>
+    <h2>Tournament system: @Model.Tournament.System</h2>
+    <h2>Number of games: @Model.Tournament.NumGames</h2>
+    <h2>Participants: @Model.Tournament.Participants.Length</h2>
+    </section>
+    <h3 style="text-align: center;">This tournament was canceled due to lack of participants!</h3>
+</body>
